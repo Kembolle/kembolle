@@ -1,17 +1,8 @@
 ###
-![GitHub Logo](https://78.media.tumblr.com/95f02d55724b631531d0b32dbd001297/tumblr_p177vracYv1wh4uq0o1_1280.gif)
-
 Hello Mod*fockers! :heart:³' 
+I'm Kembolle Amilkar ⠠⠵ , MBA Teacher in Information Security and Cybersecurity at the University of Technology FATEC - MT, Information Security Analyst at the Legislative Assembly of Mato Grosso, leader of the Owasp chapter in Cuiabá :honeybee:, leader of the Internet Thinks Cuiabá Chapter :satellite:.
 
-I'm Kembolle Amilkar ⠠⠵ , MBA teacher in Information Security and Cybersecurity at the University of Technology FATEC - MT, Information Security Analyst at the Legislative Assembly of Mato Grosso, leader of the owasp chapter in Cuiabá, leader of the Internet Thinks Cuiabá chapter.
-
-### Affinities:
-- Counter culture
-- Urban Art 
-- Cyberpunk 
-- Contesting social movements
-
-### SKILLS:
+**SKILLS:**
 - Firewalls
 - Reverse Engineering
 - Ethical Hacking
@@ -25,9 +16,16 @@ I'm Kembolle Amilkar ⠠⠵ , MBA teacher in Information Security and Cybersecur
 - Incident Response Security
 - Computer Forensic
 
-### Get in touch: 
-- kembolle 
-- @kembolle.com.br
-- @owasp.org 
-- @bsd.com.br
+**Get in touch:** 
+> Websites:
+- :tophat: [kembolle.com.br](http://kembolle.com.br)
+- :honeybee: [Owasp Chapter Cuiabá](https://owasp.org/www-chapter-cuiaba/) 
+- :smiling_imp: [FreeBSDBrasil](http://www.free.bsd.com.br/)
+- :bookmark: [LinkedIn](https://br.linkedin.com/in/kembolle)
+- :octocat: [Github](https://github.com/Kembolle)
+
+> E-mail: 
+- kembolle@kembolle.com.br
+- kembolle@owasp.org 
+- kembolle@bsd.com.br
 
