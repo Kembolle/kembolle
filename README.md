@@ -23,9 +23,5 @@ I'm Kembolle Amilkar ⠠⠵ , MBA Teacher in Information Security and Cybersecur
 - :smiling_imp: [FreeBSDBrasil](http://www.free.bsd.com.br/)
 - :bookmark: [LinkedIn](https://br.linkedin.com/in/kembolle)
 - :octocat: [Github](https://github.com/Kembolle)
-
-> E-mail: 
-- kembolle@kembolle.com.br
-- kembolle@owasp.org 
-- kembolle@bsd.com.br
+ 
 
